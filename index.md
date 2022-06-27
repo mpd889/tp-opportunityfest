@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Temasek Polytechnic Opportunity Fest 2022
+description: An info site for TPOF 2022
 image: /images/isomer-logo.svg
 permalink: /
 notification: "Hello there! Be sure to check out the webinars :) Merci Beaucoup "
@@ -38,3 +38,4 @@ sections:
       url: /faq/
       alt: Image alt text
 ---
+
