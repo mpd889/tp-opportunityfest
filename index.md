@@ -7,7 +7,6 @@ permalink: /
 notification: "Hello there! Be sure to check out the webinars :) Merci Beaucoup "
 sections:
   - hero:
-      title: Temasek Polytechnic Opportunity Fest 2022
       background: /images/Temp Album/TP Website_2800_1200.png
       button: Contact Us
       url: /contact-us/
@@ -38,4 +37,3 @@ sections:
       url: /faq/
       alt: Image alt text
 ---
-
