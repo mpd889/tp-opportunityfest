@@ -1,13 +1,22 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
+  - title: Home
     url: /contact-us/
-  - title: Example Page
+  - title: Work Study Programmes
     url: /example-page/
+  - title: Scholarships
+    url: /permalink
+  - title: Webinars
+    url: /permalink
+    sublinks:
+      - title: "ECG "
+        url: /permalink
+      - title: Further Education
+        url: /permalink
+      - title: Industry
+        url: /permalink
+      - title: Career
+        url: /permalink
+  - title: Other Resources
+    url: /permalink
+    sublinks: []
