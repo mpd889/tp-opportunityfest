@@ -2,4 +2,4 @@ collections:
   webinar:
     output: true
     order:
-      - Example Page.md
+      - ECG Webinar.md
