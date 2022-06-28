@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: ECG Webinar
           description: Discover your career goals.
-          url: https://google.com
+          url: /example-page
         - title: Further Education Webinar
           description: Inform on Further Education
           url: https://gmail.com
