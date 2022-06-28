@@ -16,7 +16,7 @@ sections:
           url: /TPOF2022Test/
         - title: Further Education Webinar
           description: Inform on Further Education
-          url: https://gmail.com
+          url: /faq/
         - title: Industry Webinar
           description: Page A is important too
           url: /privacy/
