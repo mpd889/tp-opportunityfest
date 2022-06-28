@@ -1,4 +1,5 @@
 collections:
   webinar:
     output: true
-    order: []
+    order:
+      - Example Page.md
