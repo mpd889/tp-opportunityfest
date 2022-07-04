@@ -29,6 +29,7 @@ sections:
       button: Find out more
       url: /faq/
       alt: Image alt text
+      image: /images/Temp Album/TP Website_2800_1200.png
   - infopic:
       title: Scholarships
       description: Here are some information on registering scholarships for further
