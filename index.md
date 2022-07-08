@@ -23,6 +23,7 @@ sections:
         - title: Career Webinar
           description: Key Highlight description
           url: ""
+      title: Temasek Polytechnic Fest 2022
   - infopic:
       title: Work-Study Programme
       description: Find out more on the different Work-Study Programmes available to you!
