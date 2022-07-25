@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Webinar Schedule
           description: A list of upcoming webinars
-          url: /TPOF2022Test/
+          url: /TPOF2022WebinarSchedule
         - title: Place Holder
           description: Lorem Ipsum
           url: /faq/
