@@ -1,5 +1,4 @@
 collections:
   webinar:
     output: true
-    order:
-      - ECG Webinar.md
+    order: []
