@@ -14,7 +14,7 @@ sections:
           description: A list of upcoming webinars
           url: /TPOF2022Test/
         - title: Place Holder
-          description: Loreum
+          description: Lorem Ipsum
           url: /faq/
         - title: Education & Career Guidance
           description: Make an appointment
