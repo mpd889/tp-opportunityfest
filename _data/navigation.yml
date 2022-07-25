@@ -1,20 +1,11 @@
 logo: /images/Temp Album/TP Logo.png
 links:
+  - title: Webinar
+    url: /permalink
   - title: Work Study Programmes
     url: /example-page/
   - title: Scholarships
     url: /permalink
-  - title: Webinars
-    url: /permalink
-    sublinks:
-      - title: "ECG "
-        url: /TPOF2022Test/
-      - title: Further Education
-        url: /permalink
-      - title: Industry
-        url: /permalink
-      - title: Career
-        url: /permalink
   - title: Other Resources
     url: /permalink
     sublinks: []
