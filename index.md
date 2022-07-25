@@ -8,21 +8,17 @@ notification: "Hello there! Be sure to check out the webinars :) Merci Beaucoup 
 sections:
   - hero:
       background: /images/Temp Album/TP Website_2800_1200.png
-      button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: ECG Webinar
-          description: Discover your career goals.
+        - title: Webinar Schedule
+          description: A list of upcoming webinars
           url: /TPOF2022Test/
-        - title: Further Education Webinar
-          description: Inform on Further Education
+        - title: Place Holder
+          description: Loreum
           url: /faq/
-        - title: Industry Webinar
-          description: Page A is important too
+        - title: Education & Career Guidance
+          description: Make an appointment
           url: /privacy/
-        - title: Career Webinar
-          description: Key Highlight description
-          url: ""
       title: Temasek Polytechnic Fest 2022
   - infopic:
       title: Work-Study Programme
