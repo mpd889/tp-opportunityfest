@@ -18,7 +18,7 @@ sections:
           url: /faq/
         - title: Education & Career Guidance
           description: Make an appointment
-          url: /privacy/
+          url: /EducationCareerGuidance
       title: Temasek Polytechnic Fest 2022
   - infopic:
       title: Work-Study Programme
