@@ -7,6 +7,7 @@ description: ""
 
 
 
-| Column 1 | Column 2 | Column 3 |
+| Counsellor | School | Link |
 | -------- | -------- | -------- |
-|    | Text     | Text     |
+|  Hildya Yong  | Applied Science |  [Make an appointment](https://bookmyecg2.questionpro.com/)    |
+| Sherlyn Soh | Business | 
