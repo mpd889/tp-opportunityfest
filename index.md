@@ -29,23 +29,26 @@ sections:
       button: Find out more
       url: /faq/
       alt: Image alt text
-      image: /images/Temp Album/TP Website_2800_1200.png
+      image: /images/Asset/Job Seeker.png
   - infopic:
-      title: Entrepreneur
+      title: Entrepreneur / Freelancer
       description: Lorem Ipsum
       button: Read more
       url: /faq/
       alt: Image alt text
+      image: /images/Asset/Entrepreneur.png
   - infopic:
       title: Explorer
       subtitle: Infopic Subtitle
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/Asset/Explorer.png
   - infopic:
       title: Back to school learner
       subtitle: Infopic Subtitle
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/Asset/Back to school Learner.png
 ---
