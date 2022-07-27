@@ -21,17 +21,28 @@ sections:
           url: /EducationCareerGuidance
       title: Temasek Polytechnic Fest 2022
   - infopic:
-      title: Work-Study Programme
-      description: Find out more on the different Work-Study Programmes available to you!
+      title: Job Seeker
+      description: Lorem Ipsum
       button: Find out more
       url: /faq/
       alt: Image alt text
       image: /images/Temp Album/TP Website_2800_1200.png
   - infopic:
-      title: Scholarships
-      description: Here are some information on registering scholarships for further
-        education, how exciting!
+      title: Entrepreneur
+      description: Lorem Ipsum
       button: Read more
       url: /faq/
+      alt: Image alt text
+  - infopic:
+      title: Explorer
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Back to school learner
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
       alt: Image alt text
 ---
