@@ -3,8 +3,7 @@ title: Education & Career Guidance
 permalink: /EducationCareerGuidance
 description: ""
 ---
-
-# Meet up with one of our counsellors 
+<span style="font-family:Arial; font-size:1.7em;" align="center"> **Make an appointment now for a one-on-one or a group session with your friends!** </span>
 
 
 
