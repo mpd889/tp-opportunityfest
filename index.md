@@ -10,13 +10,16 @@ sections:
       background: /images/Temp Album/TP Website_2800_1200.png
       url: /contact-us/
       key_highlights:
+        - title: About TPOF 2022
+          description: Lorem Ipsum
+          url: /faq/
         - title: Webinar Schedule
           description: A list of upcoming webinars
           url: /TPOF2022WebinarSchedule
-        - title: Place Holder
-          description: Lorem Ipsum
-          url: /faq/
-        - title: Education & Career Guidance
+        - title: Resources
+          description: Key Highlight description
+          url: ""
+        - title: Let's Chat (ECG and CA)
           description: Make an appointment
           url: /EducationCareerGuidance
       title: Temasek Polytechnic Fest 2022
