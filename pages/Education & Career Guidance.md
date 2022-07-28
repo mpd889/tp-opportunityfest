@@ -6,11 +6,11 @@ description: ""
 <center>
 	
 <span style="font-family:Arial; font-size:2em;">
-<p><b>Make an appointment now for a one-on-one or a group session with your friends!</b></p>
+<p><b>Make an appointment now for a one-on-one or a group session with your friends!</b></p><br>
 </span>
 <span style="font-family:Arial; font-size:1.5em;">
 <a href="https://for.edu.sg/bookmyecg" > For existing students </a><br>
-<a href="https://for.edu.sg/bookmyecgpublic"> For alumni </a>
+<a href="https://for.edu.sg/bookmyecgpublic"> For alumni </a><br>
 </span>
 <br>
 <span style="font-family:Arial; font-size:1.5em;">
