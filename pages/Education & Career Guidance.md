@@ -5,7 +5,7 @@ description: ""
 ---
 <center>
 	
-<span style="font-family:Arial; font-size:1.7em;">
+<span style="font-family:Arial; font-size:3em;">
 <p><b>Make an appointment now for a one-on-one or a group session with your friends!</b></p><br>
 </span>
 	
