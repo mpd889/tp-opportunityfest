@@ -10,13 +10,13 @@ description: ""
 </center>
 <center>
 	
->[For existing students](https://for.edu.sg/bookmyecg)
+<blockquote>[For existing students](https://for.edu.sg/bookmyecg) </blockquote>
 	
->[For alumni](https://for.edu.sg/bookmyecgpublic)
+<blockquote>[For alumni](https://for.edu.sg/bookmyecgpublic) </blockquote>
 	
-The **Career Services Centre** is centrally located along the Plaza of TP, just a stone's throw away from the Library.
+	The  <b>Career Services Centre</b> is centrally located along the Plaza of TP, just a stone's throw away from the Library.
 
-**Career Services Centre**
+<b>Career Services Centre</b>
 
 Temasek Polytechnic  
 Administration Block 9, Lobby D, Level 2 (Plaza)
