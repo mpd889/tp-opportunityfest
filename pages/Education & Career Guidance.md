@@ -23,8 +23,8 @@ description: ""
 
 <b>Career Services Centre</b>
 
-Temasek Polytechnic  
-Administration Block 9, Lobby D, Level 2 (Plaza)
+<p>Temasek Polytechnic  </p>
+<p> Administration Block 9, Lobby D, Level 2 (Plaza) </p>
 	
 </span>
 </center>
