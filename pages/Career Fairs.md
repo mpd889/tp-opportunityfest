@@ -3,7 +3,6 @@ title: Career Fairs
 permalink: /careerfairs
 description: ""
 ---
-### **External**
 
 #### **General Legal Information**
 
