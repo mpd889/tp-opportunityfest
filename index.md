@@ -19,7 +19,7 @@ sections:
         - title: Resources
           description: Key Highlight description
           url: ""
-        - title: Let's Chat (ECG and CA)
+        - title: Let's Chat
           description: Make an appointment
           url: /EducationCareerGuidance
       title: Temasek Polytechnic Fest 2022
