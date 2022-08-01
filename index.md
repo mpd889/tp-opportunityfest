@@ -27,7 +27,7 @@ sections:
       title: Job Seeker
       description: Lorem Ipsum
       button: Find out more
-      url: /faq/
+      url: /jobseeker
       alt: Image alt text
       image: /images/Asset/Job Seeker.png
   - infopic:
