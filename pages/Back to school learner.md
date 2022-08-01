@@ -3,8 +3,6 @@ title: Back to school learner
 permalink: /permalink
 description: ""
 ---
-   
-
 - ##### **Understand what your motivation/purpose is** for further study/higher qualification
 
 - ##### **Understand your further study options in totality**  – Local or Overseas; Full-time studies or Part-time Studies. AUs, Ous, PEI, CET specialist diplomas and work-study programmes etc
