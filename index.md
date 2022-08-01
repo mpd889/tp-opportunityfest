@@ -33,17 +33,18 @@ sections:
   - infopic:
       title: Entrepreneur / Freelancer
       description: Lorem Ipsum
-      button: Read more
-      url: /faq/
+      button: Find out more
+      url: /entrepreneurlfreelancer
       alt: Image alt text
       image: /images/Asset/Entrepreneur.png
   - infopic:
       title: Explorer
       subtitle: Infopic Subtitle
       description: Infopic description
-      button: Button Text
+      button: Find out more
       alt: Image alt text
       image: /images/Asset/Explorer.png
+      url: /explorer
   - infopic:
       title: Back to school learner
       subtitle: Infopic Subtitle
