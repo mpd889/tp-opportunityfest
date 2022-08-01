@@ -22,7 +22,6 @@ sections:
         - title: Let's Chat
           description: Make an appointment
           url: /EducationCareerGuidance
-      title: Temasek Polytechnic Fest 2022
   - infopic:
       title: Job Seeker
       description: Lorem Ipsum
