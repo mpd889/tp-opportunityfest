@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: About TPOF 2022
           description: Lorem Ipsum
-          url: /faq/
+          url: /abouttpof2022
         - title: Webinar Schedule
           description: A list of upcoming webinars
           url: /TPOF2022WebinarSchedule
