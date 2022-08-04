@@ -41,7 +41,6 @@ sections:
       image: /images/Asset/Entrepreneur.png
   - infopic:
       title: Explorer
-      subtitle: Infopic Subtitle
       description: "May be unclear of career interests/direction and need time to
         explore further before deciding on next course of action e.g. which
         university degree to pursue. "
@@ -51,7 +50,6 @@ sections:
       url: /explorer
   - infopic:
       title: Back to school learner
-      subtitle: Infopic Subtitle
       description: Aspire to deepen knowledge and pursue further education, higher
         qualifications, or specialised certifications.
       button: Button Text
