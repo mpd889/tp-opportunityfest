@@ -9,4 +9,4 @@ description: ""
 
 >[SKILLSFUTURE WORK-STUDY DEGREE PROGRAMMES](https://www.skillsfuture.gov.sg/wsdeg#whatisit)
 
->[Temasek SkillsFuture Academy](https://www.tp.edu.sg/research-and-industry/temasek-skillsfuture-academy.html)
+>[TEMASEK SKILLSFUTURE ACADEMY](https://www.tp.edu.sg/research-and-industry/temasek-skillsfuture-academy.html)
