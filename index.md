@@ -24,8 +24,8 @@ sections:
           url: /EducationCareerGuidance
   - infopic:
       title: Job Seeker
-      description: "Ready to join the workforce and feel confident with the skills
-        they have acquired to pursue a job aligned with their career interests,
+      description: "Ready to join the workforce and feel confident with the skills you
+        have acquired to pursue a job aligned with their career interests,
         skills and work values. "
       button: Find out more
       url: /jobseeker
