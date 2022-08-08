@@ -41,9 +41,8 @@ sections:
       image: /images/Asset/Entrepreneur.png
   - infopic:
       title: Explorer
-      description: "May be unclear of career interests/direction and need time to
-        explore further before deciding on next course of action e.g. which
-        university degree to pursue. "
+      description: May be unclear of career interests/direction and need time to
+        explore further before deciding on next course of action.
       button: Find out more
       alt: Image alt text
       image: /images/Asset/Explorer.png
