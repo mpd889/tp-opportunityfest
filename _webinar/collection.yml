@@ -2,5 +2,6 @@ collections:
   webinar:
     output: true
     order:
+      - Webinar Schedule.md
       - Wednesday.md
       - Friday.md
