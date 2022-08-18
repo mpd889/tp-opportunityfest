@@ -16,7 +16,13 @@ links:
   - title: Webinar
     url: /TPOF2022WebinarSchedule
     sublinks:
+      - title: Monday
+        url: /webinar/Monday
+      - title: Tuesday
+        url: /webinar/Tuesday
       - title: Wednesday
-        url: /tpof22wednesdaywebinar
+        url: /webinar/Wednesday
+      - title: Thursday
+        url: /webinar/Thursday
       - title: Friday
-        url: /permalink
+        url: /webinar/Friday
