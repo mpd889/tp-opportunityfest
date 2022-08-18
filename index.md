@@ -16,9 +16,6 @@ sections:
         - title: Webinar Schedule
           description: A list of upcoming webinars
           url: /TPOF2022WebinarSchedule
-        - title: Resources
-          description: Key Highlight description
-          url: ""
         - title: Let's Chat
           description: Make an appointment
           url: /EducationCareerGuidance
