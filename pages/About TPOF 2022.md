@@ -21,4 +21,3 @@ Useful resources on education and careers are also available, and you can find m
 
 Also do check out some useful tips based on your future education and career plans, for you to start charting your own journey to reach your aspirations!
 
-![](/images/Theme.png)
