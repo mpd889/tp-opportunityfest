@@ -7,7 +7,7 @@ permalink: /
 notification: "Hello there! Be sure to check out the webinars :) Merci Beaucoup "
 sections:
   - hero:
-      background: /images/Temp Album/TP Website_2800_1200.png
+      background: /images/Asset/TPOF 2022.png
       url: /contact-us/
       key_highlights:
         - title: About TPOF 2022
@@ -53,4 +53,3 @@ sections:
       image: /images/Asset/Back to school Learner.png
       url: /backtoschoollearner
 ---
-
