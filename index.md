@@ -4,7 +4,7 @@ title: Temasek Polytechnic Opportunity Fest 2022
 description: An info site for TPOF 2022
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Hello there! Be sure to check out the webinars :) Merci Beaucoup "
+notification: ""
 sections:
   - hero:
       background: /images/Asset/Test1.png
