@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Asset/Test2.png
+      background: /images/Asset/TPOF2022_2.jpg
       url: /contact-us/
       key_highlights:
         - title: About TPOF 2022
