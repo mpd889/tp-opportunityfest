@@ -48,7 +48,7 @@ sections:
       title: Back to school learner
       description: Aspire to deepen knowledge and pursue further education, higher
         qualifications, or specialised certifications.
-      button: Button Text
+      button: Find out more
       alt: Image alt text
       image: /images/Asset/Back to school Learner.png
       url: /backtoschoollearner
