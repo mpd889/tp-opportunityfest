@@ -1,6 +1,6 @@
 ---
 title: About TPOF 2022
-permalink: /abouttpof2022
+permalink: /abouttpof2022/
 description: ""
 ---
 ### **Temasek Polytechnic Opportunity Fest 2022**
@@ -20,4 +20,3 @@ Useful resources on education and careers are also available, and you can find m
 - Scholarships
 
 Also do check out some useful tips based on your future education and career plans, for you to start charting your own journey to reach your aspirations!
-
