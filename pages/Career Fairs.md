@@ -1,11 +1,10 @@
 ---
 title: Career Fairs
-permalink: /careerfairs
+permalink: /careerfairs/
 description: ""
 ---
-
 #### **General Legal Information**
 
->[e2i Career Fair](https://e2i.com.sg/events/category/career-fairs/)
+>[e2i CAREER FAIR](https://e2i.com.sg/events/category/career-fairs/)
 
->[WSF Career Fair](https://vcf.mycareersfuture.gov.sg/vcf)
+>[WSF CAREER FAIR](https://vcf.mycareersfuture.gov.sg/vcf)
