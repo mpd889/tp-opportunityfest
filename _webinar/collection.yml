@@ -2,8 +2,8 @@ collections:
   webinar:
     output: true
     order:
-      - Speaker Profile.md
       - Webinar Schedule.md
+      - Speaker Profile.md
       - Monday.md
       - Tuesday.md
       - Wednesday.md
