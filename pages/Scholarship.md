@@ -4,4 +4,3 @@ permalink: /scholarship/
 description: ""
 ---
 ##### **Lorem ipsum**
-
