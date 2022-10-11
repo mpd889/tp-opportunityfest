@@ -31,7 +31,7 @@ sections:
   - infopic:
       title: Entrepreneur / Freelancer
       description: "Aspires to be own boss. May be passionate to make a difference or
-        serve a cause. Likes to take risks for rewards. "
+        serve a cause. "
       button: Find out more
       url: /entrepreneurlfreelancer
       alt: Image alt text
