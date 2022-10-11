@@ -3,7 +3,7 @@ title: About TPOF 2022
 permalink: /abouttpof2022/
 description: ""
 ---
-### **Temasek Polytechnic Opportunity Fest 2022**
+![](/images/Asset/TPOF2022_2.jpg)
 
 Welcome to the inaugural TP Opportunity **FEST**! This is a one-stop portal to **Engage, Equip and Empower** you to create your own tomorrow! With an array of ECG resources and webinars specially curated for you to support in your Education and Career planning, your future is definitely within your reach!
 
