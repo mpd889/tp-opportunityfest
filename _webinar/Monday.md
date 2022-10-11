@@ -12,4 +12,4 @@ description: ""
 |How a transformative SMU education can prepare you for an unpredictable, post-COVID world  | 12pm - 1pm | Virtual, link (TBC) | XXX  | Linette Lim, Director of Admissions and Financial Assistance |
 | SIT / 5 Things You Should Know: SIT’s Aptitude-Based Admissions  | 1pm - 2pm | Virtual, link (TBC) | XXX  | Cady Tay, Senior Manager (Admissions) |
 | Further Study in Australia / UK / USA | 2pm - 4pm | Virtual, link (TBC) | XXX  | Aus - Cheryl Lee (Aus Trade & Investment Comm)  UK - Susan Tan (RP ECGC)  USA - Olivia Meng Yao Ding (Education USA)  |
-| An Alumnus' Insight: Application to UK / USA University  | 4pm - 5pm | Virtual link (TBC) | XXX  | TBC, Job Title |
+| An Alumnus' Insight: Application to UK / USA University  | 4pm - 5pm | Virtual link (TBC) | XXX  | Nicholas Chew Zheng Yong |
