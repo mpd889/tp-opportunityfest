@@ -3,7 +3,7 @@ title: Career Fairs
 permalink: /careerfairs/
 description: ""
 ---
-#### **General Legal Information**
+#### **External Career Fairs**
 
 >[e2i CAREER FAIR](https://e2i.com.sg/events/category/career-fairs/)
 
