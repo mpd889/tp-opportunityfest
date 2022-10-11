@@ -12,4 +12,4 @@ description: ""
 | Why SMU? What's the difference?  | 12pm - 1pm | Virtual, link (TBC) | XXX  | TBC, Job Title |
 | SIT the natural progression for Poly Grads  | 1pm - 2pm | Virtual, link (TBC) | XXX  | TBC, Job Title |
 | Further Study in Australia / UK / USA | 2pm - 4pm | Virtual, link (TBC) | XXX  | TBC, Job Title |
-| An Alumnus' Insight: Application to UK / USA University  | 4pm - 5pm | Virtual link (TBC) | XXX  | Name, Job Title |
+| An Alumnus' Insight: Application to UK / USA University  | 4pm - 5pm | Virtual link (TBC) | XXX  | TBC, Job Title |
