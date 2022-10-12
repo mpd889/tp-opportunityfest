@@ -64,7 +64,9 @@ Prior to his current role, Eugene was performing HR development in a major telco
 Synopsis  
 
 **Karen Yap, Temasek Polytechnic Career Advisor**  
-Synopsis  
+Before becoming a Career Coach, Karen was a HR Business Partner for Global Category Business in GSK (pharmaceutical) and brings with her many years of HR experience from employers’ perspective.
+
+Karen now enjoys leveraging on her rich HR experience to help individuals especially youths to get a career headstart and launch a fruitful and meaningful career.  
 
 ##### 11 November, Thursday
 
