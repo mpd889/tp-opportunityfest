@@ -3,7 +3,7 @@ title: Work Study Programme
 permalink: /wsp/
 description: ""
 ---
-##### **Work-study programmes allow you to get a head-start in your career that is related to your discipline of study with the opportunity to build on your knowledge and skills. Check out the different programmes below:**
+##### **Want to have the best of both academic study and professional work? Work-and-Study programmes do just that. These programmes integrate works in professional settings with classroom learning seemlessly, to maximise learner's skills acquisition and industrial exposure. At the end of the course, one will be both book and work smart!!!**
 
 >[SKILLSFUTURE WORK-STUDY PROGRAMMES](https://programmes.myskillsfuture.gov.sg/WorkStudyIndividualProgrammes/Programme_Summary.aspx)
 
