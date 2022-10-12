@@ -3,7 +3,9 @@ title: Further Education
 permalink: /furthereducation/
 description: ""
 ---
-### **Autonomous University**
+### **Autonomous University ("AU" aka local university that is sponsored by SG Government**
+
+###### **There are 6 AUs offering a wide variety of courses to meet the aspirations of the TP graduates. Check them out, and if you need help, do organise a counselling session with an ECG Counsellor.**
 
 - Nanyang Technological University, [NTU](https://www.ntu.edu.sg/admissions) 
 - National University of Singapore, [NUS](https://www.nus.edu.sg/oam/) 
@@ -13,7 +15,7 @@ description: ""
 - Singapore University of Technology and Design, [SUTD](https://www.sutd.edu.sg/)
 
 ### **Private Education**
-For students who wish to consider private education,  do advise them to consider the [**3Rs**](https://www.ssg.gov.sg/cpe/student-services/student-resources/key-facts-you-should-know/3Rs.html "https://www.ssg.gov.sg/cpe/student-services/student-resources/key-facts-you-should-know/3Rs.html"), and check that the institution and course is registered with the Council for Private Education ([**CPE**](https://www.ssg.gov.sg/cpe/pei.html)) beforehand.
+For students who wish to consider further education with a private education institute, do take note of the [**3Rs**](https://www.ssg.gov.sg/cpe/student-services/student-resources/key-facts-you-should-know/3Rs.html "https://www.ssg.gov.sg/cpe/student-services/student-resources/key-facts-you-should-know/3Rs.html"), and check that the institution and course are registered with the Council for Private Education ([**CPE**](https://www.ssg.gov.sg/cpe/pei.html)).
 
 ### **Overseas Education**
-Other than the cost, there are many factors to consider when chossing an overseas university.  This includes the campus culture, learning style, future prospects amongst others.
+Besides costs, there are many factors to consider when choosing an overseas university. Amongst others to consider are the university's strength in the programme of choice, campus culture, learning style, future prospects.
