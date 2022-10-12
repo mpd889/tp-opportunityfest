@@ -3,7 +3,7 @@ title: Speaker Profile
 permalink: /speakerprofile/
 description: ""
 ---
-##### 7 November, Monday
+#### 7 November, Monday
 
 **Edward Lee, Senior ECG Counsellor**  
 Synopsis  
@@ -26,7 +26,7 @@ Synopsis
 **Olivia Meng Yao Ding, Education USA**  
 Synopsis  
 
-##### 8 November, Tuesday
+#### 8 November, Tuesday
 
 **Fion Tan, Associate Programme Director**  
 An MOE educator for 18 years, Fion has experience in both teaching and curriculum planning in the Nutrition Food Science subject.
@@ -49,7 +49,7 @@ Synopsis
 **Sherlyn Soh, Senior ECG Counsellor**  
 Synopsis
 
-##### 9 November, Wednesday
+#### 9 November, Wednesday
 
 **Winston Chue, e2i Trainer**  
 With more than 4,000 hours coaching hours, Winston is a highly sought-after Executive Coach and Adult Educator since 2009. Over the last 10 years, Winston has facilitated and coached countless individuals and organisations from both public and private sectors, locally and globally. His clients find him an inspiring and reliable individual, through his consistent approach using Transformation Coaching. He has received many accolades as an effective Executive Coach and in Training & Development.
@@ -62,7 +62,7 @@ Before becoming a Career Coach, Karen was a HR Business Partner for Global Categ
 
 Karen now enjoys leveraging on her rich HR experience to help individuals especially youths to get a career headstart and launch a fruitful and meaningful career.
 
-##### 10 November, Thursday
+#### 10 November, Thursday
 
 **Eugene Wong, Senior Career Advisor**  
 Eugene’s mission is to help people find jobs and change lives, a commitment that began when he was career coach with Maximus Asia. 
@@ -77,7 +77,7 @@ Before becoming a Career Coach, Karen was a HR Business Partner for Global Categ
 
 Karen now enjoys leveraging on her rich HR experience to help individuals especially youths to get a career headstart and launch a fruitful and meaningful career.  
 
-##### 11 November, Thursday
+#### 11 November, Thursday
 
 **Yasmin Abdeen, e2i Associate**  
  Yasmin has extensive experience in strategic communication. She has worked with numerous established organisations. 
