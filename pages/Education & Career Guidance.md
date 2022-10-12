@@ -3,4 +3,4 @@ title: Education & Career Guidance
 permalink: /EducationCareerGuidance/
 description: ""
 ---
-![](/images/Asset/Microsite%201.png) [![](/images/Asset/Microsite%202.png)](https://for.edu.sg/bookmyecg) [![](/images/Asset/Microsite%203.png)](https://for.edu.sg/bookmyecgpublic) ![](/images/Asset/Microsite%204.png)
+![](/images/Asset/Microsite1.png) [![](/images/Asset/Microsite2.png)](https://for.edu.sg/bookmyecg) [![](/images/Asset/Microsite3.png)](https://for.edu.sg/bookmyecgpublic) ![](/images/Asset/Microsite4.png)
