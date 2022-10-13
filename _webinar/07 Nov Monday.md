@@ -3,8 +3,7 @@ title: 07 Nov Monday
 permalink: /webinar/Monday/
 description: ""
 ---
-
-### 7 November 2022
+#### Further Education Talks
 
 | **Title** | **Time** | **Synopsis / Speaker**| **Location**  |
 | - | - | - | - |
