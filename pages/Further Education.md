@@ -6,7 +6,7 @@ description: ""
 ##### **For students aspiring further education, there are many available options for you to explore and consider.**
 
 #### **Autonomous University**
-##### **There are 6 local autonomous universities (AU) offering a wide variety of courses to meet the aspirations of the TP graduates.**
+###### **There are 6 local autonomous universities (AU) offering a wide variety of courses to meet the aspirations of the TP graduates.**
 
 - Nanyang Technological University, [NTU](https://www.ntu.edu.sg/admissions) 
 - National University of Singapore, [NUS](https://www.nus.edu.sg/oam/) 
