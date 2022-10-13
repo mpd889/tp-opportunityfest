@@ -5,11 +5,11 @@ description: ""
 ---
 ### 8 November 2022
 
-| **Session** | **Time** | **Location** | **Synopsis** | **Speaker** |
-| - | - | - | - | - |
-| Are you the **SUTD**ent we are looking for?  | 10am - 11am | Virtual link TBC | XXX  | Fion Tan, Associate Program Director |
-| Engagement with NUS for an Empowered Future Within Reach  | 11am - 12pm | Virtual link TBC | XXX  | Oon Jia Hong, Admissions Officer, National University of Singapore |
-| TP Work & Study Programme  | 12pm - 1pm | Vitual link TBC | XXX  | Tan Ban Soon & Vincent Ng |
-| Discover NTU  | 1pm - 2pm | Virtual link TBC | XXX  | Alan Phua, Director of Admission |
-| Laselle and NAFA  | 2pm - 3pm | Virtual link TBC | XXX  | TBC, Job Title |
-| What Profession and Education Would Fit My Strengths?  | 3pm - 5pm | FTF TBC | Decision making for educational/ professional career pathways will be easier with the understanding of your personal strengths. The importance is getting to know your strengths and what are the potentially suitable pathways. | Sherlyn Soh, Senior ECG Counsellor |
+| **Title** | **Time** | **Synopsis / Speaker** | **Location**  |
+| - | - | - | - |
+| Are you the **SUTD**ent we are looking for?  | 10am - 11am | *Speaker: Fion Tan, Associate Program Director* | Virtual link TBC  |
+| Engagement with NUS for an Empowered Future Within Reach  | 11am - 12pm | *Speaker: Oon Jia Hong, Admissions Officer, National University of Singapore* | Virtual link TBC  |
+| TP Work & Study Programme  | 12pm - 1pm | *Speaker: Tan Ban Soon & Vincent Ng* | Vitual link TBC  | 
+| Discover NTU  | 1pm - 2pm | *Speaker: Alan Phua, Director of Admission* | Virtual link TBC  | 
+| Laselle and NAFA  | 2pm - 3pm | Are you keen to pursue further education in Arts and Design? Come and hear from the LASALLE College of the Arts and the Nanyang Academy of Fine Arts (NAFA). At this webinar, learn about which programmes are more popular with polytechnic graduates and how you can score a place in your preferred programme. | Virtual link TBC |  
+| What Profession and Education Would Fit My Strengths?  | 3pm - 5pm | Decision making for educational/ professional career pathways will be easier with the understanding of your personal strengths. The importance is getting to know your strengths and what are the potentially suitable pathways. <br/><br/> *Speaker: Sherlyn Soh, Senior ECG Counsellor | FTF TBC | 
