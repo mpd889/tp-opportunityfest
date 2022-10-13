@@ -27,9 +27,6 @@ Before becoming a Career Coach, Karen was a HR Business Partner for Global Categ
 **Mr Eugene Wong <br/> *Senior Career Advisor, Temasek Polytechnic***  
 Eugene’s mission is to help people find jobs and change lives, a commitment that began when he was career coach with Maximus Asia. Prior to his current role, Eugene was performing HR development in a major telco and several local universities. His passion now is to help young people develop the smarts to have a strong start in their careers.
 
-**Ms Karen Yap <br/> *Career Advisor, Temasek Polytechnic***  
-Before becoming a Career Coach, Karen was a HR Business Partner for Global Category Business in GSK (pharmaceutical) and brings with her many years of HR experience from employers’ perspective. Karen now enjoys leveraging on her rich HR experience to help individuals especially youths to get a career headstart and launch a fruitful and meaningful career.  
-
 #### 11 November, Thursday
 
 **Ms Yasmin Abdeen <br/> *Associate, e2i***  
