@@ -12,3 +12,5 @@ description: ""
 - ##### **Be confident that Polytechnic graduates are valued!** Based on the latest Graduate Employment Survey, the median gross monthly salary for polytechnic graduates is $2,500.
 
 - ##### **Continue learning.** Ensure your skills remain relevant. Continue to upskill and reskill even as you gain work experience.
+
+#### **Check out Career Resources and Opportunities [here](/careerpreparation/)**
