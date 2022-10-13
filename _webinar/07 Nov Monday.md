@@ -3,7 +3,13 @@ title: 07 Nov Monday
 permalink: /webinar/Monday/
 description: ""
 ---
-#### Further Education Talks
+#### Education and Career Guidance
+
+| **Title** | **Time** | **Synopsis / Speaker**| **Location**  |
+| - | - | - | - |
+| Future-proofing Future | 10am - 11am | Transitioning to further education and/or professional work need not be confusing and scary if you employ the right ECG approach. <br/> <br/> *Speaker: Edward Lee, Senior ECG Counsellor*  | Virtual (link available soon) |
+
+#### Further Education 
 
 | **Title** | **Time** | **Synopsis / Speaker**| **Location**  |
 | - | - | - | - |
