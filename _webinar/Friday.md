@@ -5,7 +5,7 @@ description: ""
 ---
 ### 11 November 2022
 
-| Session | Time | Location | Synopsis | Speaker |
+| **Session** | **Time** | **Location** | **Synopsis** | **Speaker** |
 | - | - | - | - | - |
 | E2I: Handling Tricky Workplace Situtations Diplomatically  | 12.30pm - 2pm | Virtual link TBC | Have you ever found yourself in a tricky situation at your workplace? How can we handle the situation diplomatically and adopt solutions-focused communication strategies? Join us at this workshop to learn how to find resolutions by reconciling goals at the workplace. <br/> <br/> - How can we avoid judging others? <br/> - What communication styles can one adopt to remain solutions-focused? | Yasmin Abdeen, e2i Associate |
 | Special Guest Speaker Series: Career in Sustainability Sectors | 2.30pm - 3.30pm | SAH Alumni Lounge, Blk 30A | What is Sustainability and Why do we need sustainability now?  What kind of skills and capabilities are required for sustainability? How Many jobs are there in sustainability and how can you prepare yourself for them? The session aims to answer the three questions and help students understand the skills, jobs and careers in Sustainability. The session also shows that there needs to be balance between continuity and change and students need to make choices based on the strengths and skills and not because of fear or relevance or FOMO. | Raghu Reddaim |
