@@ -13,4 +13,4 @@ description: ""
 
 - ##### **Have a Plan B, and execute it concurrently.**  This may include other study options, work-study post diploma, or even working full-time.
 
-#### **[here](/furthereducation/)**
+#### **Check out Further Education Resources [here](/furthereducation/)**
