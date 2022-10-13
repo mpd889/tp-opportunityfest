@@ -11,4 +11,6 @@ description: ""
 
 - ##### **Prepare for your application** - Understand the application process including aptitude-based admissions and timelines. Prepare your personal statements, admissions interview, etc
 
-- ##### **Have a Plan B, and execute it concurrently.**  This may include other study options, work-study post diploma, or even working full-time. 
+- ##### **Have a Plan B, and execute it concurrently.**  This may include other study options, work-study post diploma, or even working full-time.
+
+#### **[here](/furthereducation/)**
