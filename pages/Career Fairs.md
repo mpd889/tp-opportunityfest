@@ -5,6 +5,6 @@ description: ""
 ---
 #### **External Career Fairs**
 
->[e2i CAREER FAIR](https://e2i.com.sg/events/category/career-fairs/)
+>[e2i Career Fair](https://e2i.com.sg/events/category/career-fairs/)
 
->[WSF CAREER FAIR](https://vcf.mycareersfuture.gov.sg/vcf)
+>[WSG Career Fair](https://vcf.mycareersfuture.gov.sg/vcf)
