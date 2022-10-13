@@ -15,6 +15,6 @@ description: ""
 
 | **Title** | **Time** | **Synopsis / Who is it for?** | **Location** | 
 | - | - | - | - |
-| The Airforce Engineer <br/><br/>*by Republic Singapore Air Force*  | 2pm - 3pm | School of Engineering <br/> Diploma in Aerospace Engineering / Aerospace Electronics <br/><br/> *Speaker: RSAF* | Audi 2 |
+| The Airforce Engineer <br/><br/>*by Republic Singapore Air Force*  | 2pm - 3pm | School of Engineering <br/><br/> Diploma in Aerospace Engineering / Aerospace Electronics | Audi 2 |
 | Aero/Aviation Programmes in Singapore Institute of Technology (SIT)   | 3pm - 4pm | School of Engineering <br/><br/> Diploma in Aerospace Engineering / Aerospace Electronics / Aviation Management <br/><br/> *Speaker: SIT* | Audi 2 |
 | Future of Maintenance, Repair and Operations (MRO) (ENG)  | 3pm - 4pm | Diploma in Aerospace Engineering / Aerospace Electronics / Aviation Management / Electronics / Microelectronics / Computer Engineering / Mechatronics / Clean Energy <br/><br/> *Speaker: Pratt & Whitney* | Audi 2 |
