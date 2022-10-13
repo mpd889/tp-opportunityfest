@@ -9,7 +9,7 @@ description: ""
 
 - ##### **Customise your resume and prepare for your interview.** Highlight relevent skills and achievement that would be suitable for the job opportunity. 
 
-- ##### **Be confident that Polytechnic graduates are valued!** Based on the latest Graduate Employment Survey, the median gross monthly salary for polytechnic graduates is $2,500.
+- ##### **Be confident that Polytechnic graduates are valued!** Check out the average starting salary of poly graduates from the Graduate Employment Survey here.
 
 - ##### **Continue learning.** Ensure your skills remain relevant. Continue to upskill and reskill even as you gain work experience.
 
