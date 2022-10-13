@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://tp-opportunityfest-staging.netlify.app
 prod: https://tp-opportunityfest-prod.netlify.app
-shareicon: /images/isomer-logo.svg
+shareicon: /images/Asset/TPOF2022_2.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: G-5TJLP3FZ2S
