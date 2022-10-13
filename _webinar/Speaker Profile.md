@@ -17,7 +17,7 @@ An MOE educator for 18 years, Fion has experience in both teaching and curriculu
 #### 9 November, Wednesday
 
 **Mr Winston Chue <br/>*Trainer, e2i***  
-With more than 4,000 hours coaching hours, Winston is a highly sought-after Executive Coach and Adult Educator since 2009. Over the last 10 years, Winston has facilitated and coached countless individuals and organisations from both public and private sectors, locally and globally. His clients find him an inspiring and reliable individual, through his consistent approach using Transformation Coaching. He has received many accolades as an effective Executive Coach and in Training & Development.
+With more than 4,000 hours coaching hours, Winston is a highly sought- after Executive Coach and Adult Educator since 2009. Over the last 10 years, Winston has facilitated and coached countless individuals and organisations from both public and private sectors, locally and globally. His clients find him an inspiring and reliable individual, through his consistent approach using Transformation Coaching. He has received many accolades as an effective Executive Coach and in Training & Development.
 
 **Ms Karen Yap <br/>*Career Advisor, Temasek Polytechnic***  
 Before becoming a Career Coach, Karen was a HR Business Partner for Global Category Business in GSK (pharmaceutical) and brings with her many years of HR experience from employers’ perspective. Karen now enjoys leveraging on her rich HR experience to help individuals especially youths to get a career headstart and launch a fruitful and meaningful career.
