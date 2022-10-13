@@ -3,8 +3,7 @@ title: 11 Nov Friday
 permalink: /webinar/Friday/
 description: ""
 ---
-
-### 11 November 2022
+### Career Preparation
 
 | **Title** | **Time** | **Synopsis / Speaker** | **Location** |
 | - | - | - | - |
