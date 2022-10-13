@@ -9,4 +9,4 @@ description: ""
 
 >[Career Fairs](/careerfairs/)
 
->Career Preparation Webinars
+>[Career Preparation Webinars](/TPOF2022WebinarSchedule/)
