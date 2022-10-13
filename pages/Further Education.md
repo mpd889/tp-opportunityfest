@@ -3,9 +3,9 @@ title: Further Education
 permalink: /furthereducation/
 description: ""
 ---
-### **Autonomous University ("AU" aka local university that is sponsored by SG Government**
 
-###### **There are 6 AUs offering a wide variety of courses to meet the aspirations of the TP graduates. Check them out, and if you need help, do organise a counselling session with an ECG Counsellor.**
+### **Autonomous University**
+##### **There are 6 local autonomous universities (AU) offering a wide variety of courses to meet the aspirations of the TP graduates.**
 
 - Nanyang Technological University, [NTU](https://www.ntu.edu.sg/admissions) 
 - National University of Singapore, [NUS](https://www.nus.edu.sg/oam/) 
@@ -14,8 +14,9 @@ description: ""
 - Singapore University of Social Sciences, [SUSS](https://www.suss.edu.sg/) 
 - Singapore University of Technology and Design, [SUTD](https://www.sutd.edu.sg/)
 
-### **Private Education**
-For students who wish to consider further education with a private education institute, do take note of the [**3Rs**](https://www.ssg.gov.sg/cpe/student-services/student-resources/key-facts-you-should-know/3Rs.html "https://www.ssg.gov.sg/cpe/student-services/student-resources/key-facts-you-should-know/3Rs.html"), and check that the institution and course are registered with the Council for Private Education ([**CPE**](https://www.ssg.gov.sg/cpe/pei.html)).
-
 ### **Overseas Education**
-Besides costs, there are many factors to consider when choosing an overseas university. Amongst others to consider are the university's strength in the programme of choice, campus culture, learning style, future prospects.
+There are many factors to consider when choosing an overseas university. These includes the university's strength in the programme of choice, campus culture, learning style, future prospects and costs.
+
+### **Private Education**
+For students who wish to consider further education with a Private Education Institute (PEI), do take note of the [**3Rs**](https://www.ssg.gov.sg/cpe/student-services/student-resources/key-facts-you-should-know/3Rs.html "https://www.ssg.gov.sg/cpe/student-services/student-resources/key-facts-you-should-know/3Rs.html") (Reasons, Readiness and Risks), and check that the institution and course are registered with the Council for Private Education ([**CPE**](https://www.ssg.gov.sg/cpe/pei.html)).
+
