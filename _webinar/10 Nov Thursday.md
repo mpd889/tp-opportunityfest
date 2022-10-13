@@ -3,8 +3,7 @@ title: 10 Nov Thursday
 permalink: /webinar/Thursday/
 description: ""
 ---
-
-### 10 November 2022
+### Career Preparation
 
 | **Title** | **Time** | **Synopsis / Speaker** | **Location** |
 | - | - | - | - |
