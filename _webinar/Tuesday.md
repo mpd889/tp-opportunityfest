@@ -5,7 +5,7 @@ description: ""
 ---
 ### 8 November 2022
 
-| Session | Time | Location | Synopsis | Speaker |
+| **Session** | **Time** | **Location** | **Synopsis** | **Speaker** |
 | - | - | - | - | - |
 | Are you the **SUTD**ent we are looking for?  | 10am - 11am | Virtual link TBC | XXX  | Fion Tan, Associate Program Director |
 | Engagement with NUS for an Empowered Future Within Reach  | 11am - 12pm | Virtual link TBC | XXX  | Oon Jia Hong, Admissions Officer, National University of Singapore |
