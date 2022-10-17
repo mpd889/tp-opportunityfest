@@ -7,8 +7,8 @@ description: ""
 
 | **Title** | **Time** | **Synopsis / Speaker** | **Location**  |
 | - | - | - | - |
-| Are you the **SUTD**ent we are looking for?  | 10am - 11am | *Speaker: Fion Tan, Associate Program Director* | Virtual (link available soon)  |
-| Engagement with NUS for an Empowered Future Within Reach  | 11am - 12pm | *Speaker: Oon Jia Hong, Admissions Officer, National University of Singapore* | Virtual (link available soon)  |
+| Are you the **SUTD**ent we are looking for?  | 10am - 11am | An MOE educator for 18 years, Fion has experience in both teaching and curriculum planning in the Nutrition Food Science subject. <br/><br/> *Speaker: Fion Tan, Associate Program Director* | Virtual (link available soon)  |
+| Engagement with NUS for an Empowered Future Within Reach  | 11am - 12pm | *Speaker: Oon Jia Hong, Admissions Officer, National University of Singapore*<br/><br/> Speaker: *Chee Yew Lin Adeline ,Admission Manager with NUS School of Continuing and Lifelong Education (“SCALE”), overseeing the Bachelor of Technology Programmes* | Virtual (link available soon)  |
 | TP Work & Study Programme  | 12pm - 1pm | *Speaker: Tan Ban Soon & Vincent Ng* | Virtual (link available soon)  | 
 | Discover NTU  | 1pm - 2pm | *Speaker: Alan Phua, Director of Admission* | Virtual (link available soon)  | 
 | Laselle and NAFA  | 2pm - 3pm | Are you keen to pursue further education in Arts and Design? Come and hear from the LASALLE College of the Arts and the Nanyang Academy of Fine Arts (NAFA). At this webinar, learn about which programmes are more popular with polytechnic graduates and how you can score a place in your preferred programme. | Virtual (link available soon) |  
