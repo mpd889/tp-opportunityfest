@@ -15,4 +15,4 @@ description: ""
 
 | **Title** | **Time** | **Who is it for?** | **Location** | 
 | - | - | - | - |
-| PS Café <br/><br/> | 10am - 11am | School of Business <br/> *Diploma in Culinary & Catering Management / Hospitality & Tourism Management / Food, Nutrition & Culinary Science* | TP (Venue detail available soon) |
+|  Career opportunities <br/><br/> *by PS Café* | 10am - 11am | School of Business <br/> *Diploma in Culinary & Catering Management / Hospitality & Tourism Management / Food, Nutrition & Culinary Science* | TP (Venue detail available soon) |
