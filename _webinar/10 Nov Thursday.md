@@ -15,7 +15,7 @@ description: ""
 
 | **Title** | **Time** | **Who is it for?** | **Location** | 
 | - | - | - | - |
-| How We Find An Idea From An Idea (the metaverse edition) <br/><br/>*by Tribal Worldwide*  | 10am - 11am | School of Design <br/> *Diploma in Apparel Design & Merchandising / Communication Design / Digital Film & Television / Interior Architecture & Design / Product Experience & Design* | Audi 2, Blk 9A, lvl 1 |
+| How We Find An Idea From An Idea (the metaverse edition) <br/><br/>*by Tribal Worldwide*  | 10am - 11am | School of Design <br/> *Diploma in Apparel Design & Merchandising / Communication Design / Digital Film & Television / Interior Architecture & Design / Product Experience & Design* | TP (Venue detail available soon) |
 | The Airforce Engineer <br/><br/>*by Republic Singapore Air Force (RSAF)*  | 2pm - 3pm | School of Engineering <br/> *Diploma in Aerospace Engineering / Aerospace Electronics* | Audi 2, Blk 9A, lvl 1 |
 |Introduction to  Aero/ Aviation programmes <br/><br/>*by Singapore Institute of Technology (SIT)*   | 3pm - 4pm | School of Engineering <br/>*Diploma in Aerospace Engineering / Aerospace Electronics / Aviation Management* | Audi 2, Blk 9A, lvl 1 |
 | Future of Maintenance, Repair and Operations (MRO) <br/><br/>*by Pratt & Whitney*  | 4pm - 5pm | School of Engineering <br/>*Diploma in Aerospace Engineering / Aerospace Electronics / Aviation Management / Electronics / Microelectronics / Computer Engineering / Mechatronics / Clean Energy*| Audi 2, Blk 9A, lvl 1 |
