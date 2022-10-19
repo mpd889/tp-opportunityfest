@@ -13,4 +13,4 @@ description: ""
 
 - ##### **Continue learning.** Ensure your skills remain relevant by upskilling and reskilling even as you gain work experience.
 
-#### **Check out Career Resources and Opportunities [here](/careerpreparation/)**
+#### **Check out career resources and opportunities [here](/careerpreparation/)**
