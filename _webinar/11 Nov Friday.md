@@ -15,4 +15,5 @@ description: ""
 
 | **Title** | **Time** | **Who is it for?** | **Location** | 
 | - | - | - | - |
+| Singapore Airlines <br/><br/> | 10am - 11am | School of Business <br/> *Diploma in Accountancy & Finance / Business / Communications & Media Management / Culinary & Catering Management / Hospitality & Tourism Management / International Trade & Logistics / Law & Management / Marketing* | TP (Venue detail available soon) |
 | Trends & Opportunities In The Built Environment <br/><br/> *by Surbana Jurong* | 4pm - 5pm | School of Engineering <br/> *Diploma in Green Building & Sustainability / Integrated Facility Managment* | TP (Venue detail available soon) |
