@@ -11,4 +11,4 @@ description: ""
 
 - ##### **Be open to seize opportunities,** whether they are full-time jobs, freelance jobs or work-study options.  They allow you to build up valuable experiences and skills.
 
-- ##### **Consult an ECG Counsellor** Make an appointment to find out more about your interests, skills and strengths, education and career opportunities and more here: 
+- ##### **Consult an ECG Counsellor** Make an appointment to find out more about your interests, skills and strengths, education and career opportunities and more [here](/EducationCareerGuidance/).
