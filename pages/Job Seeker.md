@@ -3,7 +3,7 @@ title: Job Seeker
 permalink: /jobseeker/
 description: ""
 ---
--  ##### **Prepare for your job search.** Keep up-to-date on current and emerging industry trends. Refer to [SkillsFuture](https://www.skillsfuture.gov.sg/skills-framework) [Skills Framework](https://www.skillsfuture.gov.sg/skills-framework) for more information.
+-  ##### **Prepare for your job search.** Keep up-to-date on current and emerging industry trends. Refer to [SkillsFuture Skills Framework](https://www.skillsfuture.gov.sg/skills-framework) for more information.
 
 - ##### **Diversify your search, and start early.** This will help to expand your job options and increase your chances of securing a job that aligns with your interests.
 
