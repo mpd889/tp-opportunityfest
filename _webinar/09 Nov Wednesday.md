@@ -15,4 +15,4 @@ description: ""
 
 | **Title** | **Time** | **Who is it for?** | **Location** | 
 | - | - | - | - |
-| How We Find An Idea From An Idea (the metaverse edition) <br/><br/>*by Tribal Worldwide*  | 10am - 11am | School of Design <br/> *Diploma in Apparel Design & Merchandising / Communication Design / Digital Film & Television / Interior Architecture & Design / Product Experience & Design* | Audi 2, Blk 9A, lvl 1 |
+| PS Café <br/><br/> | 10am - 11am | School of Business <br/> *Diploma in Culinary & Catering Management / Hospitality & Tourism Management / Food, Nutrition & Culinary Science* | F |
