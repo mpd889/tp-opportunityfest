@@ -44,7 +44,7 @@ sections:
       image: /images/Asset/Explorer.png
       url: /explorer
   - infopic:
-      title: Back-to-school Learner
+      title: Back To School Learner
       description: Aspire to deepen your knowledge? Explore  further education, higher
         qualifications, or specialised certifications.
       button: Find out more
