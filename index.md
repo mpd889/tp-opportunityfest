@@ -13,44 +13,42 @@ sections:
         - title: About TPOF 2022
           description: ""
           url: /abouttpof2022
-        - title: Webinar Schedule
-          description: A list of upcoming webinars
+        - title: Webinars Schedule
+          description: Start your exploration
           url: /TPOF2022WebinarSchedule
         - title: Let's Chat
           description: Make an appointment
           url: /EducationCareerGuidance
   - infopic:
       title: Job Seeker
-      description: Ready to join the workforce and feel confident with the skills
-        acquired to pursue a job aligned with career interests, skills and work
-        values.
+      description: Ready to join the workforce? Prepare yourself with these essential
+        tips and find great job opportunities.
       button: Find out more
       url: /jobseeker
       alt: Image alt text
       image: /images/Asset/Job Seeker.png
   - infopic:
       title: Entrepreneur / Freelancer
-      description: "Aspires to be own boss. May be passionate to make a difference or
-        serve a cause. "
+      description: Dreaming to be your own boss? Here is what you need to know and
+        where to seek support.
       button: Find out more
       url: /entrepreneurlfreelancer
       alt: Image alt text
       image: /images/Asset/Entrepreneur.png
   - infopic:
       title: Explorer
-      description: May be unclear of career interests/direction and need time to
-        explore further before deciding on next course of action.
+      description: Not sure of where to go? It is never too late to start exploring
+        and here is how.
       button: Find out more
       alt: Image alt text
       image: /images/Asset/Explorer.png
       url: /explorer
   - infopic:
-      title: Back to school learner
-      description: Aspire to deepen knowledge and pursue further education, higher
+      title: Back-to-school Learner
+      description: Aspire to deepen your knowledge? Explore  further education, higher
         qualifications, or specialised certifications.
       button: Find out more
       alt: Image alt text
       image: /images/Asset/Back to school Learner.png
       url: /backtoschoollearner
 ---
-
