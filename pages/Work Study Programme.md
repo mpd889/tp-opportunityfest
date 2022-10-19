@@ -3,7 +3,7 @@ title: Work Study Programme
 permalink: /wsp/
 description: ""
 ---
-##### **Want to have the best of both academic study and professional work? Work-and-Study programmes do just that. These programmes integrate works in professional settings with classroom learning seemlessly, to maximise learner's skills acquisition and industrial exposure.**
+##### **Want to deepen your learning while earning a salary? Work-and-Study programmes do just that. These programmes integrate work with classroom learning seamlessly to maximise a learner's skills acquisition and industrial exposure.**
 
 >[SkillsFuture Work-Study Programmes](https://programmes.myskillsfuture.gov.sg/WorkStudyIndividualProgrammes/Programme_Summary.aspx)
 
