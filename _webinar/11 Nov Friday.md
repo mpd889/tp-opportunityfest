@@ -15,6 +15,6 @@ description: ""
 
 | **Title** | **Time** | **Who is it for?** | **Location** | 
 | - | - | - | - |
-| Airline Industry and Career opportunities <br/><br/> *by Singapore Airlines* | 10am - 11am | School of Business <br/> *Diploma in Accountancy & Finance / Business / Communications & Media Management / Culinary & Catering Management / Hospitality & Tourism Management / International Trade & Logistics / Law & Management / Marketing <br/><br/> School of Engineering <br/>*Diploma in Aerospace Engineering / Aerospace Electronics / Aviation Management* | TP (Venue detail available soon) |
+| SIA Career Talk <br/><br/> *by Singapore Airlines* | 10am - 11am | School of Business <br/> *Diploma in Accountancy & Finance / Business / Communications & Media Management / Culinary & Catering Management / Hospitality & Tourism Management / International Trade & Logistics / Law & Management / Marketing <br/><br/> School of Engineering <br/>*Diploma in Aerospace Engineering / Aerospace Electronics / Aviation Management* | TP (Venue detail available soon) |
 | Briefing on Infrastructure and Project Management Course <br/><br/> *by National University of Singapore* | 2pm - 3pm | School of Engineering <br/> *Diploma in Green Building & Sustainability / Integrated Facility Managment* | ENG Blk 23, LT39 |
 | Trends & Opportunities In The Built Environment <br/><br/> *by Surbana Jurong* | 4pm - 5pm | School of Engineering <br/> *Diploma in Green Building & Sustainability / Integrated Facility Managment* | ENG Blk 23, LT39 |
