@@ -2,7 +2,7 @@ collections:
   webinars:
     output: true
     order:
-      - Webinar Schedule.md
+      - Webinars Schedule.md
       - 07 Nov Monday.md
       - 08 Nov Tuesday.md
       - 09 Nov Wednesday.md
