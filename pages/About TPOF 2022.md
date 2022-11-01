@@ -4,12 +4,6 @@ permalink: /abouttpof2022/
 description: ""
 ---
 ![](/images/Asset/TPOF2022_2.jpg)
-<div class="bp-youtube">
-	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9e4Mtzd8a9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
-</div>
-
 Welcome to the inaugural TP Opportunity **FEST**! This is a one-stop portal to **Engage, Equip and Empower** you to create your own tomorrow! With an array of ECG resources and webinars specially curated for you to support your education and career planning, your future is definitely within your reach.
 
 Check out the series of talks/workshops lined up for you during this Flex Week which include:
