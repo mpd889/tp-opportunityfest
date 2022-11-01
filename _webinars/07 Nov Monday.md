@@ -23,3 +23,4 @@ description: ""
 
 | **Title** | **Time** | **Who is it for?** | **Location** | 
 | - | - | - | - |
+| Advance your food business career in Culinary Arts education at the Culinary Institure of America  <br/><br/> *by Singapore Institute of Technology* | 4pm - 5pm | School of Applied Science <br/> *Diploma in Food, Nutrition and Culinary Science* | Virtual (link available soon) |
