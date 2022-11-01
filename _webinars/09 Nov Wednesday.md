@@ -15,4 +15,10 @@ description: ""
 
 | **Title** | **Time** | **Who is it for?** | **Location** | 
 | - | - | - | - |
-|  Career opportunities <br/><br/> *by PS Café* | 10am - 11am | School of Business <br/> *Diploma in Culinary & Catering Management / Hospitality & Tourism Management / Food, Nutrition & Culinary Science* | TP (Venue detail available soon) |
+| NTUC HealthChart Your Career Path Into The Community Care Sector  <br/><br/> *by NTUC Health* | 9am - 10am | School of Humanities & Social Sciences <br/> *Diploma in Social Sciences in Gerontology* | Virtual (link available soon) |
+|  Career opportunities <br/><br/> *by PS Café* | 10am - 11am | School of Applied Science <br/> *Food, Nutrition & Culinary Science* <br/><br/> School of Business <br/> *Diploma in Culinary & Catering Management / Hospitality & Tourism Management* | TP (Venue detail available soon) |
+| Being a part of Community Care  <br/><br/> *by ST LUKE’S ELDERCARE LTD* | 10.15am - 11.15am | School of Humanities & Social Sciences <br/> *Diploma in Social Sciences in Gerontology* | Virtual (link available soon) |
+|  Your Start to a Meaningful Career in Early Intervention <br/><br/> *by SPD* | 11am - 12pm | School of Humanities & Social Sciences <br/> *Diploma in Psychology Studies* | Virtual (link available soon) |
+|  Shape Our Tomorrow: Careers in the Early Childhood Sector <br/><br/> *by The Little Skool-House International Pte Ltd* | 12pm - 1pm | School of Humanities & Social Sciences <br/> *Diploma in Early Childhood Development & Education* | Virtual (link available soon) |
+|  Career opportunities at Pfizer <br/><br/> *by Pfizer* | 12pm - 1pm | School of Applied Science <br/> *Diploma in Chemical Engineering* | ASC Blk 7, LT13 |
+| Exploring a career in E-bridge  <br/><br/> *by E-Bridge* | 1pm - 2pm | School of Humanities & Social Sciences <br/> *Diploma in Early Childhood Development & Education* | Virtual (link available soon) |
