@@ -18,3 +18,8 @@ description: ""
 | 5 Things You Should Know: SIT’s Aptitude-Based Admissions  | 1pm - 2pm | How would you like to know more about your potential and abilities beyond just your academic grades? At SIT, we assess you beyond your grades but as an individual with diverse qualities and talents. Join us for this webinar as we let you in on the 5 things that you should know about SIT’s aptitude-based admissions. <br/><br/> *Speaker: Cady Tay, Senior Manager of Admissions* | Virtual (link available soon)  | 
 | Further Study in Australia / UK / USA | 2pm - 4pm |- Further studies in UK: The 5Ws and 1H <br/> - Studying in Australia 101 <br/> - Applying to U.S Universities as a Polytechnic Student<br/><br/> *Speakers: <br/> Susan Tan, ECG Counsellor <br/> Cheryl Lee, Australian Trade & Investment Commission <br/> Olivia Meng, EducationUSA* | Virtual (link available soon)  |
 | An Alumnus' Insight: Application to UK / USA University  | 4pm - 5pm | *Speaker: Nicholas Chew* | Virtual (link available soon)  |
+
+#### Industry Talks
+
+| **Title** | **Time** | **Who is it for?** | **Location** | 
+| - | - | - | - |
