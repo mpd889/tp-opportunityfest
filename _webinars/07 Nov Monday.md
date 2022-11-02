@@ -23,4 +23,6 @@ description: ""
 
 | **Title** | **Time** | **Who is it for?** | **Location** | 
 | - | - | - | - |
+| Sharing by TOS Skin Global <br/><br/> *by TOS Skin Global Pte Ltd* | 2.30pm - 3.30pm | School of Applied Science <br/> *Diploma in Food, Nutrition and Culinary Science* | Virtual (link available soon) |
+| Sharing by Mount Alvernia Hospital   <br/><br/> *by Mount Alvernia Hospital* | 2.30pm - 3.30pm | School of Applied Science <br/> *Diploma in Food, Nutrition and Culinary Science* | Virtual (link available soon) |
 | Advance your food business career in Culinary Arts education at the Culinary Institure of America  <br/><br/> *by Singapore Institute of Technology* | 4pm - 5pm | School of Applied Science <br/> *Diploma in Food, Nutrition and Culinary Science* | Virtual (link available soon) |
