@@ -25,4 +25,4 @@ Useful resources on education and careers are also available, and you can find m
 
 Along the way, check out useful tips on further education, entrepreneurship, self-discovery and career planning. 
 
-**Attend the [webinars](/TPOF2022WebinarSchedule/) to get your SEALs Point now!**
+**Attend the [webinars](/TPOF2022WebinarSchedule/) to get your SEAL Point now!**
