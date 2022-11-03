@@ -7,7 +7,7 @@ description: ""
 
 | **Title** | **Time** | **Synopsis / Speaker**| **Location**  |
 | - | - | - | - |
-| Future-proofing Future | 10am - 11am | Transitioning to further education and/or professional work need not be confusing and scary if you employ the right ECG approach. <br/> <br/> *Speaker: Edward Lee, Senior ECG Counsellor*  |  Microsoft Teams <br/> Click [here](https://teams.microsoft.com/l/meetup-join/19:meeting_YTc5NGIzNjQtYjQ2Yy00ZjhmLWEwNDQtMjIzZjc3NzFjN2Rk@thread.v2/0?context=%7B%22Tid%22:%2225a99bf0-8e72-472a-ae50-adfbdf0df6f1%22,%22Oid%22:%22c083ea69-58c5-4cf2-9ce1-de712a1a8226%22%7D) to join <br/> <br/> ID: 453 460 066 455 <br/> Password: gF3Mnt |
+| Future-proofing the Future | 10am - 11am | Transitioning to further education and/or professional work need not be confusing and scary if you employ the right ECG approach. <br/> <br/> *Speaker: Edward Lee, Senior ECG Counsellor*  |  Microsoft Teams <br/> Click [here](https://teams.microsoft.com/l/meetup-join/19:meeting_YTc5NGIzNjQtYjQ2Yy00ZjhmLWEwNDQtMjIzZjc3NzFjN2Rk@thread.v2/0?context=%7B%22Tid%22:%2225a99bf0-8e72-472a-ae50-adfbdf0df6f1%22,%22Oid%22:%22c083ea69-58c5-4cf2-9ce1-de712a1a8226%22%7D) to join <br/> <br/> ID: 453 460 066 455 <br/> Password: gF3Mnt |
 
 #### Further Education 
 
