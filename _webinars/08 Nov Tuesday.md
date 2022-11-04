@@ -3,7 +3,7 @@ title: 08 Nov Tuesday
 permalink: /webinar/Tuesday/
 description: ""
 ---
-### Further Education
+#### Further Education
 
 | **Title** | **Time** | **Synopsis / Speaker** | **Location**  |
 | - | - | - | - |
@@ -13,7 +13,7 @@ description: ""
 | Discover NTU  | 1pm - 2pm | Young and research intensive, Nanyang Technological University, Singapore (NTU Singapore) is ranked among the world’s top universities. NTU offers engineering, science, business, humanities, arts, social sciences, education, and medicine. A cosmopolitan university with more than 100 nationalities, NTU is home to 33,000 students. The University’s main campus is frequently listed among the Top 15 most beautiful university campuses in the world. NTU also has a medical campus in Novena, Singapore’s healthcare district. At NTU, you get more than an education. Hear from NTU Director of Admissions on how you can discover your strength at a university placed among the best in the world. Join this webinar to learn about NTU’s interdisciplinary curriculum and collaborative learning, the various admissions pathways, scholarship/financial matters, and explore your choices at NTU! <br/><br/> *Speaker: Alan Phua, Director of Admission* | Microsoft Teams <br/> Click [here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTBiMTk1ODktM2UxYi00ZTAxLWE3YjUtZGVlMmI4ZmE1MzA3%40thread.v2/0?context=%7b%22Tid%22%3a%2225a99bf0-8e72-472a-ae50-adfbdf0df6f1%22%2c%22Oid%22%3a%22c083ea69-58c5-4cf2-9ce1-de712a1a8226%22%7d) to join <br/> <br/> ID: 483 069 179 66 <br/> Password: Bo2RwX  | 
 | Where Passion in Arts Matter  | 2pm - 3pm | The university of Arts Singapore (UAS), formed by an alliance between LASALLE College of the Arts (LASALLE) and Nanyang Academy of Fine Arts (NAFA), will open applications in the third quarter of 2023 for its first cohort of students in August 2024. <br/><br/> *Speaker: <br/> Teng Mei Yong Christabel, Vice Dean (Design & Media Programme) School of Art & Design, NAFA <br/><br/> Marienne Yang, Vice Dean (Academic) School of Art and Design, NAFA <br/><br/> Circe Henestrosa, Head, School of Fashion, Lasalle <br/><br/> Kathryn Shannon Sim, Lecturer, Fashion, Lasalle* | Microsoft Teams <br/> Click [here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODRiMTk2ZjMtYzI5MC00NzZhLWFjYjgtZWJkNWVjZmE3YTY5%40thread.v2/0?context=%7b%22Tid%22%3a%2225a99bf0-8e72-472a-ae50-adfbdf0df6f1%22%2c%22Oid%22%3a%22c083ea69-58c5-4cf2-9ce1-de712a1a8226%22%7d) to join <br/> <br/> ID: 491 831 614 255 <br/> Password: Avtnfd |  
 
-### Education and Career Guidance
+#### Education and Career Guidance
 
 | **Title** | **Time** | **Synopsis / Speaker** | **Location**  |
 | - | - | - | - |
