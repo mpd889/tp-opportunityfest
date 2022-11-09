@@ -24,5 +24,5 @@ description: ""
 | **Title** | **Time** | **Who is it for?** | **Location** | 
 | - | - | - | - |
 | Growing after graduation <br/><br/> *by TOS Skin Global Pte Ltd* | 10.30am 11.30am | School of Applied Science <br/> *Diploma in Food, Nutrition and Culinary Science* | Microsoft Teams <br/> Click [here](https://tinyurl.com/TPOF-2022-7-Nov) to join |
-| Nutrition to health and well-being  <br/><br/> *by Mount Alvernia Hospital* | 11.30am - 11.30am | School of Applied Science <br/> *Diploma in Food, Nutrition and Culinary Science* | Microsoft Teams <br/> Click [here](https://tinyurl.com/TPOF-2022-7-Nov) to join |
+| Nutrition to health and well-being  <br/><br/> *by Mount Alvernia Hospital* | 10.30am - 11.30am | School of Applied Science <br/> *Diploma in Food, Nutrition and Culinary Science* | Microsoft Teams <br/> Click [here](https://tinyurl.com/TPOF-2022-7-Nov) to join |
 | Advance your food business career in Culinary Arts education at the Culinary Institute of America  <br/><br/> *by Singapore Institute of Technology* | 4pm - 5pm | School of Applied Science <br/> *Diploma in Food, Nutrition and Culinary Science* | Microsoft Teams <br/> Click [here](https://tinyurl.com/TPOF-2022-7-Nov) to join |
