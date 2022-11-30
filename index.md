@@ -10,12 +10,12 @@ sections:
       background: /images/Asset/TPOF2022_2.jpg
       url: /contact-us/
       key_highlights:
-        - title: About TPOF 2022
+        - title: About TPOF
           description: ""
           url: /abouttpof2022
-        - title: Webinars Schedule
-          description: Start your exploration
-          url: /TPOF2022WebinarSchedule
+        - title: "Webinars "
+          description: Rewatch recorded webinars
+          url: ""
         - title: Let's Chat
           description: Make an appointment
           url: /EducationCareerGuidance
