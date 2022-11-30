@@ -9,13 +9,15 @@ description: ""
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9e4Mtzd8a9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Welcome to the inaugural TP Opportunity **FEST**! This is a one-stop portal to **Engage, Equip and Empower** you to create your own tomorrow! With an array of ECG resources and webinars specially curated for you to support your education and career planning, your future is definitely within your reach.
+As we emerge from the pandemic, and ease into the new normal, this is the best time to take stock and take charge of your education and career plans. TPOF aims to **Engage, Equip and Empower** you to achieve a **future** of many possibilities that is **within your reach**. Listen in the the series of exciting webinars to **equip** you with the knowledge and skills to create your own tomorrow.
 
-Check out the series of talks/workshops lined up for you during this Flex Week which include:
+Check out the series of recorded webinars on:
 
-- Further education talks
-- Industry related (diploma specific) webinars
-- Career preparation workshops
+- Autonomous Universities
+- NAFA & LASALLE
+- Overseas Universities
+- Work-Study Programmes
+- Education & Career Guidance
 
 Useful resources on education and careers are also available, and you can find more information on:
 
@@ -24,5 +26,3 @@ Useful resources on education and careers are also available, and you can find m
 - Scholarships
 
 Along the way, check out useful tips on further education, entrepreneurship, self-discovery and career planning. 
-
-**Attend the [webinars](/TPOF2022WebinarSchedule/) to get your SEAL Point now!**
