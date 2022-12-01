@@ -9,4 +9,3 @@ description: ""
 
 >[WSG Career Fair](https://vcf.mycareersfuture.gov.sg/vcf)
 
->[Virtual Jobs Discovery in the East](https://e2i.virtualfair.sg/cs/)
