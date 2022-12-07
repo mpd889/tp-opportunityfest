@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Asset/TPOF2022_2.jpg
+      background: /images/Asset/Microsite Web Banner.png
       url: /contact-us/
       key_highlights:
         - title: About TPOF
