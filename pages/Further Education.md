@@ -21,4 +21,4 @@ There are many factors to consider when studying overseas university. They inclu
 #### **Private Education**
 For students who wish to consider further education with a Private Education Institute (PEI), do take note of the [**3Rs**](https://www.ssg.gov.sg/cpe/student-services/student-resources/key-facts-you-should-know/3Rs.html "https://www.ssg.gov.sg/cpe/student-services/student-resources/key-facts-you-should-know/3Rs.html") (Reasons, Readiness and Risks), and check that the institution and course are registered with the Council for Private Education ([**CPE**](https://www.ssg.gov.sg/cpe/pei.html)).
 
-##### **Check out the further education webinars [here](/TPOF2022WebinarSchedule/).**
+##### **Check out the further education webinars [here](/rewatchwebinar/).**
