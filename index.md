@@ -4,7 +4,7 @@ title: "Temasek Polytechnic Opportunity Fest "
 description: An info site for TPOF
 image: /images/Asset/TPOF2022_2.jpg
 permalink: /
-notification: ""
+notification: "Hello there! Check out the recorded webinars! "
 sections:
   - hero:
       background: /images/Asset/Microsite Web Banner.png
@@ -52,4 +52,3 @@ sections:
       image: /images/Asset/Back to school Learner.png
       url: /backtoschoollearner
 ---
-
