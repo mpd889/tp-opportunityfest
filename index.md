@@ -15,7 +15,7 @@ sections:
           url: /abouttpof2022
         - title: "Webinars "
           description: Rewatch recorded webinars
-          url: ""
+          url: /rewatchwebinar/
         - title: Let's Chat
           description: Make an appointment
           url: /EducationCareerGuidance
