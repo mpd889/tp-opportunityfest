@@ -1,4 +1,4 @@
-title: Temasek Polytechnic Opportunity Fest 2022
+title: "Temasek Polytechnic Opportunity Fest "
 url: https://www.tp.edu.sg
 favicon: /images/TP Favicon Logo.png
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An info site for TPOF 2022
+description: An info site for TPOF
 permalink: none
 baseurl: ""
 exclude:
