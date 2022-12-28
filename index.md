@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Temasek Polytechnic Opportunity Fest 2022
-description: An info site for TPOF 2022
+title: "Temasek Polytechnic Opportunity Fest "
+description: An info site for TPOF
 image: /images/Asset/TPOF2022_2.jpg
 permalink: /
 notification: ""
@@ -52,3 +52,4 @@ sections:
       image: /images/Asset/Back to school Learner.png
       url: /backtoschoollearner
 ---
+
