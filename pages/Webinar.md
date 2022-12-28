@@ -22,4 +22,5 @@ description: ""
 
 | **Title** | **Synopsis / Speaker**| **Link**  |
 | - | - | - |
-| Future-proofing the Future | Transitioning to further education and/or professional work need not be confusing and scary if you employ the right ECG approach. <br/> <br/> *Speaker: Edward Lee, Senior ECG Counsellor*  |  Click [here](https://web.microsoftstream.com/video/3e984366-ca77-41fc-968e-16a43f34564d?channelId=f2d99768-e91d-48b3-a214-dad9e4d3e4e7)
+| Future-proofing the Future | Transitioning to further education and/or professional work need not be confusing and scary if you employ the right ECG approach. <br/> <br/> *Speaker: Edward Lee, Senior Education & Career Coach*  |  Click [here](https://web.microsoftstream.com/video/3e984366-ca77-41fc-968e-16a43f34564d?channelId=f2d99768-e91d-48b3-a214-dad9e4d3e4e7)
+| Putting A Price to Your Market Value | Transitioning to further education and/or professional work need not be confusing and scary if you employ the right ECG approach. <br/> <br/> *Speaker: Karen Yap, Education & Career Coach*  |  Click [here](https://web.microsoftstream.com/video/4cd5b44f-17bf-4c07-bd22-fc70e80cadee?channelId=f2d99768-e91d-48b3-a214-dad9e4d3e4e7)
