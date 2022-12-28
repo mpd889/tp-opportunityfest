@@ -3,12 +3,6 @@ title: Webinar
 permalink: /rewatchwebinar/
 description: ""
 ---
-#### Education and Career Guidance
-
-| **Title** | **Synopsis / Speaker**| **Link**  |
-| - | - | - |
-| Future-proofing the Future | Transitioning to further education and/or professional work need not be confusing and scary if you employ the right ECG approach. <br/> <br/> *Speaker: Edward Lee, Senior ECG Counsellor*  |  Click [here](https://web.microsoftstream.com/video/3e984366-ca77-41fc-968e-16a43f34564d?channelId=f2d99768-e91d-48b3-a214-dad9e4d3e4e7)
-
 #### Further Education 
 
 | **Title** | **Synopsis / Speaker**| **Link**  |
@@ -23,3 +17,9 @@ description: ""
 | Where Passion in Arts Matter | The University of Arts Singapore (UAS), formed by an alliance between LASALLE College of the Arts (LASALLE) and Nanyang Academy of Fine Arts (NAFA), will open applications in the third quarter of 2023 for its first cohort of students in August 2024. <br/> <br/> *Speaker: <br/> Teng Mei Yong Christabel, Vice Dean (Design & Media Programme) School of Art & Design, NAFA <br/><br/> Marienne Yang, Vice Dean (Academic) School of Art and Design, NAFA <br/><br/> Circe Henestrosa, Head, School of Fashion, LASALLE <br/><br/> Kathryn Shannon Sim, Lecturer, Fashion, LASALLE*  |  Click [here](https://web.microsoftstream.com/video/ddde5087-a457-46bd-853f-c16aaef06220?channelId=f2d99768-e91d-48b3-a214-dad9e4d3e4e7)
 | SIT: Your Personal Statement Matters | There is a lot more to a university application than academic achievements. Get great tips on personal statement writing and how to showcase yourself. <br/><br/> *Speaker: Mariam Cheok, Admissions Division, Singapore Institute of Technology* | Click [here](https://web.microsoftstream.com/video/b48a96c4-e453-48be-8a07-025207ae1cfe?channelId=dc6e589a-5def-43e3-b7d5-734ff2579f33) 
 | Pack a Punch Powering up your Portfolio & Presentation Skills | Stand out from the crowd in your university application. Get insider tips from the admissions team at Singapore University of Social Sciences (SUSS) <br/><br/> *Angelina Chua, Office of Admissions, Singapore University of Social Sciences* | Click [here](https://web.microsoftstream.com/video/7e2a6adb-bed9-4e0a-aeb6-72c13d45a552?channelId=dc6e589a-5def-43e3-b7d5-734ff2579f33) |
+
+#### Education and Career Guidance
+
+| **Title** | **Synopsis / Speaker**| **Link**  |
+| - | - | - |
+| Future-proofing the Future | Transitioning to further education and/or professional work need not be confusing and scary if you employ the right ECG approach. <br/> <br/> *Speaker: Edward Lee, Senior ECG Counsellor*  |  Click [here](https://web.microsoftstream.com/video/3e984366-ca77-41fc-968e-16a43f34564d?channelId=f2d99768-e91d-48b3-a214-dad9e4d3e4e7)
