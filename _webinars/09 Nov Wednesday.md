@@ -1,6 +1,6 @@
 ---
 title: 09 Nov Wednesday
-permalink: /webinar/Wednesday/
+permalink: /webinar/wednesday/
 description: ""
 ---
 #### Career Preparation

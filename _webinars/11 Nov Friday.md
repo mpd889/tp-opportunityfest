@@ -1,6 +1,6 @@
 ---
 title: 11 Nov Friday
-permalink: /webinar/Friday/
+permalink: /webinar/friday/
 description: ""
 ---
 #### Career Preparation

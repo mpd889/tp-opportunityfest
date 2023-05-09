@@ -1,6 +1,6 @@
 ---
 title: 08 Nov Tuesday
-permalink: /webinar/Tuesday/
+permalink: /webinar/tuesday/
 description: ""
 ---
 #### Further Education

@@ -1,6 +1,6 @@
 ---
 title: 07 Nov Monday
-permalink: /webinar/Monday/
+permalink: /webinar/monday/
 description: ""
 ---
 #### Education and Career Guidance
