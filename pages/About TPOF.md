@@ -21,6 +21,17 @@ As we emerge from the pandemic, and ease into the new normal, this is the best t
 | 15:00| How are art forms and creative work evolving with technology?  <br/> <br/> *Speaker: <br/> Ng Teck Meng, Department of Creative Design, UAS <br/> <br/> Lee Lilin, Creative Industries*  |  Click [here](https://web.microsoftstream.com/video/b9e27996-2bb3-4bb2-98c6-2a7397d70e35?channelId=f2d99768-e91d-48b3-a214-dad9e4d3e4e7)
 | 16:30 | Considerations in choosing an overseas university and degree programme. <br/> <br/> *Speaker: <br/> Kane Flaherty, British Council <br/> <br/> Cheryl Lee, Australian Trade and Investment Commission, Singapore <br/> <br/> Nicholas Chew, Project Access Singapore*  |  Click [here](https://web.microsoftstream.com/video/6fd9f35e-3402-4a7a-a10d-a4b8aad2767b?channelId=f2d99768-e91d-48b3-a214-dad9e4d3e4e7)
 
+#### 8 Nov 23 Webinar 
+
+| **Time** | **Title**| **Link**  |
+| - | - | - |
+| 10:00 | Career Talk by ____. <br/> <br/> *Speaker: Zen Chan, Talent Development, Human Resource*  |  Click [here](https://web.microsoftstream.com/video/84ffc785-9d72-4ead-a04d-cca0b109205b)
+| 11:30 | Industry Sharing by JobStreet. <br/> <br/> *Speaker: Monica Gordan, Business Development*  |  Click [here](https://web.microsoftstream.com/video/5c079d7c-6329-422a-b582-de23fc4d5748?channelId=f2d99768-e91d-48b3-a214-dad9e4d3e4e7)
+| 12:30 | Academic anxieties: expectations, uncertainties and coping with studying while working.  <br/> <br/> *Speaker: <br/> Peter Yeo, NUS <br/> <br/> Ley Eng, SUSS <br/> <br/> Yip Chia Jun, SIT* |  Click [here](https://web.microsoftstream.com/video/55b2ab16-0bb6-443f-9b7e-e644fcf031ad)
+| 14:00 | Digital Transformation in the Home Team. <br/> <br/> *Speaker: Koh Sze Ying, Ministry of Home Affairs*  |  Click [here](https://web.microsoftstream.com/video/412e0e03-a097-42fd-85fc-08c14caec025?channelId=f2d99768-e91d-48b3-a214-dad9e4d3e4e7)
+| 15:00| An entrepreneur’s journey: Happy and Hard Lessons  <br/> <br/> *Speaker: <br/> Abel Teo, Castomize <br/> <br/> Evan Tan, Framethefolks Pte Ltd <br/> <br/> Ramesh Kumar, Innovation and Entrepreneurship Department, Temasek Polytechnic, <br/> <br/> Yee Hung, Hidden.sg*  |  Click [here](https://web.microsoftstream.com/video/b9e27996-2bb3-4bb2-98c6-2a7397d70e35?channelId=f2d99768-e91d-48b3-a214-dad9e4d3e4e7)
+| 16:30 | How is the higher education landscape evolving with the advancement of AI and other tech? <br/> <br/> *Speaker: <br/> Jaeslyn Aw, NUS <br/> <br/> Michael Pang, SUTD*  |  Click [here](https://web.microsoftstream.com/video/6fd9f35e-3402-4a7a-a10d-a4b8aad2767b?channelId=f2d99768-e91d-48b3-a214-dad9e4d3e4e7)
+
 Check out the series of recorded webinars on:
 
 - Autonomous Universities
