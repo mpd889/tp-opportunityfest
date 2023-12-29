@@ -1,10 +1,10 @@
 ---
 layout: homepage
-title: "Temasek Polytechnic Opportunity Fest "
+title: Temasek Polytechnic Opportunity Fest
 description: An info site for TPOF
 image: /images/Asset/TPOF2022_2.jpg
 permalink: /
-notification: "Hello there! Check out the recorded webinars! "
+notification: Hello there! Check out the recorded webinars!
 sections:
   - hero:
       background: /images/Asset/Microsite Web Banner.png
@@ -13,7 +13,7 @@ sections:
         - title: About TPOF
           description: ""
           url: /abouttpof2022
-        - title: "Webinars "
+        - title: Webinars
           description: Rewatch recorded webinars
           url: /rewatchwebinar/
         - title: Let's Chat
@@ -24,7 +24,7 @@ sections:
       description: Ready to join the workforce? Prepare yourself with these essential
         tips and find great job opportunities.
       button: Find out more
-      url: /jobseeker
+      url: https://tpof2023.com/resources/#job-seeker
       alt: Image alt text
       image: /images/Asset/Job Seeker.png
   - infopic:
@@ -32,7 +32,7 @@ sections:
       description: Dreaming to be your own boss? Here is what you need to know and
         where to seek support.
       button: Find out more
-      url: /entrepreneurlfreelancer
+      url: https://tpof2023.com/resources/#entrepreneur-freelancer
       alt: Image alt text
       image: /images/Asset/Entrepreneur.png
   - infopic:
@@ -42,7 +42,7 @@ sections:
       button: Find out more
       alt: Image alt text
       image: /images/Asset/Explorer.png
-      url: /explorer
+      url: https://tpof2023.com/resources/#explorer
   - infopic:
       title: Back To School Learner
       description: Aspire to deepen your knowledge? Explore  further education, higher
@@ -50,5 +50,5 @@ sections:
       button: Find out more
       alt: Image alt text
       image: /images/Asset/Back to school Learner.png
-      url: /backtoschoollearner
+      url: https://tpof2023.com/resources/#back-to-school
 ---
