@@ -7,7 +7,7 @@ permalink: /
 notification: Hello there! Check out the recorded webinars!
 sections:
   - hero:
-      background: /images/Asset/Microsite Web Banner.png
+      background: /images/Asset/temasek_poly_2023_web_banner.jpg
       url: /contact-us/
       key_highlights:
         - title: About TPOF
