@@ -18,7 +18,7 @@ sections:
           url: /rewatchwebinar/
         - title: Let's Chat
           description: Make an appointment
-          url: /EducationCareerGuidance
+          url: https://www.tp.edu.sg/life-at-tp/career-services/make-an-appointment.html
   - infopic:
       title: Job Seeker
       description: Ready to join the workforce? Prepare yourself with these essential
