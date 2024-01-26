@@ -24,7 +24,7 @@ sections:
       description: Ready to join the workforce? Prepare yourself with these essential
         tips and find great job opportunities.
       button: Find out more
-      url: https://tpof2023.com/resources/#job-seeker
+      url: /jobseeker/
       alt: Image alt text
       image: /images/Asset/Job Seeker.png
   - infopic:
@@ -32,7 +32,7 @@ sections:
       description: Dreaming to be your own boss? Here is what you need to know and
         where to seek support.
       button: Find out more
-      url: https://tpof2023.com/resources/#entrepreneur-freelancer
+      url: /entrepreneurlfreelancer/
       alt: Image alt text
       image: /images/Asset/Entrepreneur.png
   - infopic:
@@ -42,7 +42,7 @@ sections:
       button: Find out more
       alt: Image alt text
       image: /images/Asset/Explorer.png
-      url: https://tpof2023.com/resources/#explorer
+      url: /explorer/
   - infopic:
       title: Back To School Learner
       description: Aspire to deepen your knowledge? Explore  further education, higher
@@ -50,5 +50,5 @@ sections:
       button: Find out more
       alt: Image alt text
       image: /images/Asset/Back to school Learner.png
-      url: https://tpof2023.com/resources/#back-to-school
+      url: /backtoschoollearner/
 ---
