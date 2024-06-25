@@ -8,4 +8,4 @@ variant: markdown
 
 >[e2i Career Fair](https://e2i.com.sg/events/category/career-fairs/)
 
->[WSG Career Fair and Workshops](https://www.wsg.gov.sg/home/individuals/career-fairs-workshops)
+>[WSG Career Fair and Workshop](https://www.wsg.gov.sg/home/individuals/career-fairs-workshops)
