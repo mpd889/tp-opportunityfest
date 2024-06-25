@@ -10,7 +10,7 @@ variant: markdown
 
 - ##### **Customise your resume and prepare for your interview.** Highlight relevant skills and achievements that are suitable for the job opportunity. 
 
-- ##### **Be confident that polytechnic graduates are valued!** Check out the average starting salaries of polytechnic graduates from the Graduate Employment Survey [here](https://ges.polytechnic.edu.sg/past-results.html).
+- ##### **Be confident that polytechnic graduates are valued!** Check out the average starting salaries of polytechnic graduates from the Graduate Employment Survey [here](https://www.tp.edu.sg/about-tp/media-centre/press-release/Employment-Rates-of-Polytechnic-Graduates-Remain-High-in-2023.html)).
 
 - ##### **Continue learning.** Ensure your skills remain relevant by upskilling and reskilling even as you gain work experience.
 
