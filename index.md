@@ -7,7 +7,7 @@ permalink: /
 notification: Hello there! Check out the recorded webinars!
 sections:
   - hero:
-      background: /images/Asset/temasek_poly_2023_web_banner.jpg
+      background: /images/2024/isomer___2800px_x_1200px.png
       url: /contact-us/
       key_highlights:
         - title: About TPOF
@@ -19,6 +19,7 @@ sections:
         - title: Let's Chat
           description: Make an appointment
           url: https://www.tp.edu.sg/life-at-tp/career-services/make-an-appointment.html
+      variant: center
   - infopic:
       title: Job Seeker
       description: Ready to join the workforce? Prepare yourself with these essential
