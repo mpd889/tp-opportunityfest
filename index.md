@@ -29,7 +29,7 @@ sections:
       title: Exhibitors
       id: infopic
       button: Find out more
-      url: "#"
+      url: /26-nov
       image: /images/2024/exhibitors.jpg
       alt: Image alt text
   - infopic:
