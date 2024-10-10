@@ -2,4 +2,5 @@ collections:
   event-details:
     output: true
     order:
+      - 26 Nov.md
       - Event Layout.md
