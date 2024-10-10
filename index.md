@@ -20,6 +20,11 @@ sections:
           description: Make an appointment
           url: https://www.tp.edu.sg/life-at-tp/career-services/make-an-appointment.html
       variant: center
+  - infobar:
+      title: Termasek Polytechnic Opportunity Fest is Back!
+      id: infobar
+      description: Join us in this year's 2-day event and click on the links below to
+        find out more details!
   - infopic:
       title: Job Seeker
       description: Ready to join the workforce? Prepare yourself with these essential
