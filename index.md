@@ -26,6 +26,20 @@ sections:
       description: Join us in this year's 2-day event and click on the links below to
         find out more details!
   - infopic:
+      title: Exhibitors
+      id: infopic
+      button: Find out more
+      url: "#"
+      image: /images/2024/exhibitors.jpg
+      alt: Image alt text
+  - infopic:
+      title: Talks@TP Auditoria 1 & 2
+      id: infopic
+      button: Find out more
+      url: "#"
+      image: /images/2024/talks.jpg
+      alt: Image alt text
+  - infopic:
       title: Job Seeker
       description: Ready to join the workforce? Prepare yourself with these essential
         tips and find great job opportunities.
