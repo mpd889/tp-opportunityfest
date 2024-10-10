@@ -1,4 +1,5 @@
 collections:
   event-details:
     output: true
-    order: []
+    order:
+      - Event Layout.md
