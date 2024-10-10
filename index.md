@@ -13,11 +13,11 @@ sections:
         - title: About TPOF
           description: ""
           url: /about-tpof-2024
-        - title: Webinars
-          description: Rewatch recorded webinars
-          url: /rewatchwebinar/
+        - title: Event Details
+          description: ""
+          url: /event-layout-overview/
         - title: Let's Chat
-          description: Make an appointment
+          description: ""
           url: https://www.tp.edu.sg/life-at-tp/career-services/make-an-appointment.html
       variant: center
   - infobar:
