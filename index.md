@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: About TPOF
           description: ""
-          url: /abouttpof2022
+          url: /about-tpof-2024
         - title: Webinars
           description: Rewatch recorded webinars
           url: /rewatchwebinar/
