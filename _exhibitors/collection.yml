@@ -2,4 +2,5 @@ collections:
   exhibitors:
     output: true
     order:
+      - 27 Nov.md
       - 26 Nov.md
