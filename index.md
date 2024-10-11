@@ -10,7 +10,7 @@ sections:
       background: /images/2024/isomer___2800px_x_1200px.png
       url: /contact-us/
       key_highlights:
-        - title: About TPOF
+        - title: About TPOF-Test
           description: ""
           url: /about-tpof-2024
         - title: Event Details
