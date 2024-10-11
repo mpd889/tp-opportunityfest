@@ -2,4 +2,5 @@ collections:
   talks-at-tp-auditoria-1-and-2:
     output: true
     order:
+      - 26 Nov.md
       - 27 Nov.md
