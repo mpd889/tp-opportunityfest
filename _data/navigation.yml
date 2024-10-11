@@ -1,17 +1,6 @@
 logo: /images/Temp Album/TP Logo.png
 links:
-  - title: Career Preparation
-    url: /careerpreparation
-    sublinks:
-      - title: Career Resources
-        url: https://www.tp.edu.sg/life-at-tp/career-services/get-ahead-with-your-career.html#careerops
-      - title: Career Fairs
-        url: /careerfairs
-  - title: Further Education
-    url: /furthereducation
-  - title: Work-Study Programmes
-    url: /wsp
-  - title: Scholarships
-    url: /scholarship/
-  - title: Recorded Webinars
-    url: /rewatchwebinar/
+  - title: Exhibitors
+    collection: exhibitors
+  - title: Talks@TP Auditoria 1 & 2
+    collection: talks-at-tp-auditoria-1-and-2
