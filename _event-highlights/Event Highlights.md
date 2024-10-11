@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Event Highlights</strong></h3>
-<p><strong>Talks @ TP Auditorium 1 &amp; 2</strong>
-</p>
+<h4><strong>Talks @ TP Auditorium 1 &amp; 2</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -90,9 +89,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p><strong>Activities</strong>
-</p>
-<p></p>
+<h4><strong>Activities</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
