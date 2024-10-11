@@ -1,6 +1,6 @@
 ---
 title: 27 Nov
-permalink: /27-nov/
+permalink: /event-layout-27-nov/
 variant: tiptap
 description: ""
 ---

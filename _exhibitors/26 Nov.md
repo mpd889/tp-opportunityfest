@@ -1,6 +1,6 @@
 ---
 title: 26 Nov
-permalink: /26-nov/
+permalink: /exhibitors-list-26-nov/
 variant: tiptap
 description: ""
 ---
