@@ -2,6 +2,6 @@ collections:
   event-highlights:
     output: true
     order:
-      - JobsLah Campaign.md
-      - SIA Cabin Crew.md
       - Event Highlights.md
+      - SIA Cabin Crew.md
+      - JobsLah Campaign.md
