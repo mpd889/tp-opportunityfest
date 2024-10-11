@@ -2,4 +2,5 @@ collections:
   event-highlights:
     output: true
     order:
+      - SIA Cabin Crew.md
       - Event Highlights.md
