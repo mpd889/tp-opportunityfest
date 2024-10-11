@@ -1,0 +1,4 @@
+collections:
+  event-highlights:
+    output: true
+    order: []
