@@ -145,6 +145,10 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><a href="http://JobsLah.com" rel="noopener noreferrer nofollow" target="_blank">JobsLah.com</a> Lucky
 Draw Prize and Bubble Tea giveout</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/TP_iPhone_Giveaway_EDM_4.jpg">
+</div>
 </td>
 </tr>
 </tbody>
